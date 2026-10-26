@@ -135,6 +135,14 @@ The custom tooltip provides additional details about total orders, average revie
 
 This project primarily uses **descriptive analytics supported by exploratory comparisons**. It summarises historical performance and identifies patterns across sales, product categories, delivery status, customer reviews, payment types, customer locations, and repeat purchasing.
 
+## Dataset and Power BI Report
+
+The original Olist datasets and Power BI report are hosted on Google Drive due to their file sizes.
+
+- **Dataset:** [Access all nine CSV datasets](https://drive.google.com/drive/folders/1KVAnxhfFBpCwL4J5WvAzwb1VURvuk4lj?usp=drive_link)
+- **Power BI Report:** [Access the Power BI report](https://drive.google.com/drive/folders/1TtOyM_H-okWb9R1FbhNSpYEQF9RvnM-q?usp=drive_link)
+
+To explore the report, download the `.pbix` file and open it using Microsoft Power BI Desktop.
 ## Author
 
 **Alabi Iseoluwa Duyilemi**
