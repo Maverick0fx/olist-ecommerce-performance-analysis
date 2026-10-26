@@ -48,8 +48,9 @@ The analysis covered sales performance, order status, product-category revenue, 
 The report contains **three interactive dashboard pages**, a Home Page, and a dedicated tooltip page.
 
 ### 1. Olist E-commerce Analysis
-
 Focuses on overall marketplace and sales performance.
+![E-commerce Analysis Dashboard](Dashboard_Screenshots/02_Ecommerce_Analysis.png)
+This page presents sales performance, revenue, orders, product categories, customer locations, and payment methods.
 
 - Total customers, orders, products, sellers, and items sold.
 - Total revenue, total freight, total order value, and average order value.
@@ -61,6 +62,9 @@ Focuses on overall marketplace and sales performance.
 ### 2. Delivery & Customer Experience
 
 Evaluates operational efficiency and customer satisfaction.
+![Delivery and Customer Experience Dashboard](Dashboard_Screenshots/03_Delivery_Customer_Experience.png)
+
+This page examines delivery times, on-time delivery performance, delivery variance, order status, and customer reviews.
 
 - Average approval, processing, delivery, and fulfilment times.
 - On-time delivery rate and average delivery variance.
@@ -73,7 +77,9 @@ Evaluates operational efficiency and customer satisfaction.
 ### 3. Customer Retention & Delivery Insights
 
 Explores repeat purchasing and differences in customer experience.
+![Customer Retention and Delivery Insights Dashboard](Dashboard_Screenshots/04_Customer_Retention_Delivery_Insights.png)
 
+This page explores repeat customers, review scores by delivery status and payment type, and delivery performance by customer state.
 - Repeat customers and repeat customer rate.
 - Top and bottom product categories by repeat customers.
 - Average review scores by delivery status.
@@ -85,6 +91,9 @@ Explores repeat purchasing and differences in customer experience.
 ### Tooltip: Order & Review Tooltip
 
 A custom tooltip page displays additional information when users hover over selected visuals, including total orders, average review score, late deliveries, and on-time deliveries.
+![Order and Review Tooltip](Dashboard_Screenshots/05_Order_Review_Tooltip.png)
+
+The custom tooltip provides additional details about total orders, average review score, late deliveries, and on-time deliveries.
 
 ## Interactive Features
 
