@@ -91,6 +91,7 @@ This page explores repeat customers, review scores by delivery status and paymen
 ### Tooltip: Order & Review Tooltip
 
 A custom tooltip page displays additional information when users hover over selected visuals, including total orders, average review score, late deliveries, and on-time deliveries.
+
 ![Order and Review Tooltip](Dashboard_Screenshots/05_Order_Review_Tooltip.png)
 
 The custom tooltip provides additional details about total orders, average review score, late deliveries, and on-time deliveries.
